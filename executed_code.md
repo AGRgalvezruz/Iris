@@ -375,5 +375,5 @@ plotting(hof_1[0])
 plotting(hof_2[0])
 ```
 
-![se_vs_ve-vi.png](attachment:se_vs_ve-vi.png)
-![ve_vs_vi.png](attachment:ve_vs_vi.png)
+![se_vs_ve-vi.png](https://github.com/AGRgalvezruz/Iris/blob/master/se_vs_ve-vi.png)
+![ve_vs_vi.png](https://github.com/AGRgalvezruz/Iris/blob/master/ve_vs_vi.png)
